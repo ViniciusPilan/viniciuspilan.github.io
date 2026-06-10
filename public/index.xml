@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vinicius Pilan</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Vinicius Pilan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Tue, 09 Jun 2026 22:38:25 -0300</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Education</title>
+      <link>http://localhost:1313/education/</link>
+      <pubDate>Tue, 09 Jun 2026 22:38:25 -0300</pubDate>
+      
+      <guid>http://localhost:1313/education/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/xp/&#34; &gt;experiences&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/education/&#34; &gt;education&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/aboutme/&#34; &gt;about me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;Academic Background&#xA;    &lt;div id=&#34;academic-background&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#academic-background&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Bachelor&amp;rsquo;s Degree in Computer Science, Universidade Estadual Paulista Julio de Mesquita Filho - UNESP (Bauru) (2019-2022).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h1 class=&#34;relative group&#34;&gt;Professional Certifications&#xA;    &lt;div id=&#34;professional-certifications&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#professional-certifications&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h1&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Certified Kubernetes Administrator (CKA) - 2025&#xA;    &lt;div id=&#34;certified-kubernetes-administrator-cka---2025&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#certified-kubernetes-administrator-cka---2025&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;It validates hands-on expertise in deploying, managing, and troubleshooting Kubernetes clusters in production environments.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Experiences</title>
+      <link>http://localhost:1313/xp/</link>
+      <pubDate>Tue, 09 Jun 2026 22:38:15 -0300</pubDate>
+      
+      <guid>http://localhost:1313/xp/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/xp/&#34; &gt;experiences&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/education/&#34; &gt;education&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/aboutme/&#34; &gt;about me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;DevOps Engineer - Trustly&#xA;    &lt;div id=&#34;devops-engineer---trustly&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#devops-engineer---trustly&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;2023 – Present&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As a DevOps Engineer, I work on building, automating, and operating cloud-native platforms that enable development teams to deliver applications efficiently and reliably.&lt;/p&gt;&#xA;&lt;p&gt;My core responsibilities include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Managing and operating Kubernetes environments.&lt;/li&gt;&#xA;&lt;li&gt;Implementing monitoring, observability, and alerting solutions.&lt;/li&gt;&#xA;&lt;li&gt;Implementing and managing solutions of service mesh.&lt;/li&gt;&#xA;&lt;li&gt;Automating infrastructure provisioning using Infrastructure as Code practices.&lt;/li&gt;&#xA;&lt;li&gt;Supporting GitOps workflows and deployment automation.&lt;/li&gt;&#xA;&lt;li&gt;Improving platform reliability, scalability, and security.&lt;/li&gt;&#xA;&lt;li&gt;Troubleshooting infrastructure, networking, and application deployment issues.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Technologies&#xA;    &lt;div id=&#34;technologies&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#technologies&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Kubernetes&lt;/li&gt;&#xA;&lt;li&gt;Docker&lt;/li&gt;&#xA;&lt;li&gt;Terraform&lt;/li&gt;&#xA;&lt;li&gt;GitHub Actions&lt;/li&gt;&#xA;&lt;li&gt;Argo CD&lt;/li&gt;&#xA;&lt;li&gt;Prometheus and its ecosystem&lt;/li&gt;&#xA;&lt;li&gt;Grafana&lt;/li&gt;&#xA;&lt;li&gt;Grafana Mimir&lt;/li&gt;&#xA;&lt;li&gt;Backstage&lt;/li&gt;&#xA;&lt;li&gt;Istio&lt;/li&gt;&#xA;&lt;li&gt;Linux&lt;/li&gt;&#xA;&lt;li&gt;Python and Shell&lt;/li&gt;&#xA;&lt;li&gt;Git&lt;/li&gt;&#xA;&lt;li&gt;AWS&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;h3 class=&#34;relative group&#34;&gt;Key Focus Areas&#xA;    &lt;div id=&#34;key-focus-areas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#key-focus-areas&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cloud Native Technologies&lt;/li&gt;&#xA;&lt;li&gt;Observability&lt;/li&gt;&#xA;&lt;li&gt;Gitops&lt;/li&gt;&#xA;&lt;li&gt;IaC&lt;/li&gt;&#xA;&lt;li&gt;Script automation&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Cloud Computing Intern - Opus Software&#xA;    &lt;div id=&#34;cloud-computing-intern---opus-software&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#cloud-computing-intern---opus-software&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;2022 – 2022 (6 months)&lt;/strong&gt;&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Tue, 09 Jun 2026 22:37:49 -0300</pubDate>
+      
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/xp/&#34; &gt;experiences&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/education/&#34; &gt;education&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/aboutme/&#34; &gt;about me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Vinicius, a DevOps Engineer passionate about building reliable, scalable, and secure cloud-native platforms. I strongly believe that great engineers combine solid technical expertise with effective communication and strong interpersonal skills, and I strive to develop both every day.&lt;/p&gt;&#xA;&lt;p&gt;My professional focus is on Kubernetes and cloud-native environments. I enjoy designing solutions that improve developer productivity while maintaining high standards of reliability, security, and operational excellence.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Tue, 09 Jun 2026 22:37:49 -0300</pubDate>
+      
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://localhost:1313/xp/&#34; &gt;experiences&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/education/&#34; &gt;education&lt;/a&gt; | &lt;a href=&#34;http://localhost:1313/aboutme/&#34; &gt;about me&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
