@@ -3,7 +3,7 @@ date = '2026-06-09T22:37:49-03:00'
 draft = false
 title = 'About me'
 +++
-[experiences](/xp) | [education](/education) | [about me](/aboutme)
+[experiences](/xp) | [education](/education) | [projects](/projects) | [about me](/aboutme)
 
 ---
 

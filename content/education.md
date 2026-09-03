@@ -4,7 +4,7 @@ draft = false
 title = 'Education'
 +++
 
-[experiences](/xp) | [education](/education) | [about me](/aboutme)
+[experiences](/xp) | [education](/education) | [projects](/projects) | [about me](/aboutme)
 
 ---
 # Academic Background
