@@ -63,4 +63,35 @@ As an advanced, hands-on certification, it focuses on protecting cluster infrast
 
 ---
 
+## Kubernetes and Cloud Native Associate (KCNA) - 2026
+
+It demonstrates foundational knowledge of Kubernetes and the broader cloud-native ecosystem, covering essential concepts such as container orchestration, Kubernetes architecture, cloud-native application delivery, observability, and cloud-native landscape tools.
+
+**Key Skills Validated**
+
+* Kubernetes fundamentals
+* Container orchestration concepts
+* Cloud-native architecture
+* Cloud-native application delivery
+* Observability and telemetry basics
+* Cloud-native landscape and ecosystem awareness
+
+---
+
+## Certified Kubernetes Application Developer (CKAD) - 2026
+
+It validates hands-on expertise in designing, building, and deploying cloud-native applications on Kubernetes.
+
+As a performance-based certification, it demonstrates the ability to work with core application concepts, design and build robust workloads, configure services and networking, and troubleshoot applications running on Kubernetes clusters.
+
+**Key Skills Validated**
+
+* Application design and build
+* Application deployment
+* Application observability and maintenance
+* Application environment, configuration, and security
+* Services and networking
+
+---
+
 These certifications reflect my commitment to building secure, reliable, and production-ready cloud-native platforms while continuously advancing my expertise in Kubernetes and DevOps practices.
