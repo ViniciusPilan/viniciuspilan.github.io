@@ -3,7 +3,7 @@ date = '2026-06-09T22:38:15-03:00'
 draft = false
 title = 'Experiences'
 +++
-[experiences](/xp) | [education](/education) | [about me](/aboutme)
+[experiences](/xp) | [education](/education) | [projects](/projects) | [about me](/aboutme)
 
 ---
 ## DevOps Engineer - Trustly
