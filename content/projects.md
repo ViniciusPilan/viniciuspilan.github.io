@@ -9,3 +9,11 @@ title = 'Projects'
 
 # Projects
 In my GitHub profile [ViniciusPilan](https://github.com/ViniciusPilan) you will find all my personal projects. 
+
+
+## Helpful project - Flash cards
+Competencies: GitHub and CI
+
+https://flash-cards.vinipilan.workers.dev/
+
+This is a very simple vibe coded project to create a platform to study core principles, fundamentals and definitions about DevOps ecossystem. The goal of this project is to be useful, not to show skills indeed.
