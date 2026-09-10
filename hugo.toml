@@ -2,3 +2,6 @@ baseURL = 'https://viniciuspilan.github.io'
 languageCode = 'en-us'
 title = 'Vinicius Pilan'
 theme = 'blowfish'
+
+[frontmatter]
+lastmod = [':git', 'lastmod', 'date', 'publishDate']
