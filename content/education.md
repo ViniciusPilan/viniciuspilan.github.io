@@ -1,5 +1,5 @@
 +++
-date = '2026-06-09T22:38:25-03:00'
+date = '2026-09-09T22:38:25-03:00'
 draft = false
 title = 'Education'
 +++
@@ -12,8 +12,34 @@ Bachelor's Degree in Computer Science, Universidade Estadual Paulista Julio de M
 
 ---
 
+# Key achievements
+
+## CNCF Kubestronaut (2026)
+I'm a [CNCF Kubestronaut](https://www.cncf.io/training/kubestronaut), holding all core certifications about Kubernetes by CNCF!
+
+---
+
 # Professional Certifications
-## Certified Kubernetes Administrator (CKA) - 2025
+
+## Certified Kubernetes Security Specialist (CKS) [2026]
+
+Its validates advanced expertise in securing Kubernetes platforms and cloud-native workloads.
+
+As an advanced, hands-on certification, it focuses on protecting cluster infrastructure, hardening workloads, securing the software supply chain, implementing runtime security controls, and responding to security incidents in Kubernetes environments.
+
+**Key Skills Validated**
+
+* Kubernetes cluster hardening
+* Supply chain security
+* Runtime security monitoring
+* Network security and isolation
+* Security auditing and compliance
+* Incident detection and response
+* Container and workload protection
+
+---
+
+## Certified Kubernetes Administrator (CKA) [2025]
 
 It validates hands-on expertise in deploying, managing, and troubleshooting Kubernetes clusters in production environments.
 
@@ -27,6 +53,22 @@ As a performance-based certification, it demonstrates the ability to work with c
 * Storage and persistence
 * Cluster troubleshooting
 * High availability and operations
+
+---
+
+## Certified Kubernetes Application Developer (CKAD) - 2026
+
+It validates hands-on expertise in designing, building, and deploying cloud-native applications on Kubernetes.
+
+As a performance-based certification, it demonstrates the ability to work with core application concepts, design and build robust workloads, configure services and networking, and troubleshoot applications running on Kubernetes clusters.
+
+**Key Skills Validated**
+
+* Application design and build
+* Application deployment
+* Application observability and maintenance
+* Application environment, configuration, and security
+* Services and networking
 
 ---
 
@@ -45,24 +87,6 @@ It demonstrates foundational knowledge of security principles across the cloud-n
 
 ---
 
-## Certified Kubernetes Security Specialist (CKS) - 2026
-
-Its validates advanced expertise in securing Kubernetes platforms and cloud-native workloads.
-
-As an advanced, hands-on certification, it focuses on protecting cluster infrastructure, hardening workloads, securing the software supply chain, implementing runtime security controls, and responding to security incidents in Kubernetes environments.
-
-**Key Skills Validated**
-
-* Kubernetes cluster hardening
-* Supply chain security
-* Runtime security monitoring
-* Network security and isolation
-* Security auditing and compliance
-* Incident detection and response
-* Container and workload protection
-
----
-
 ## Kubernetes and Cloud Native Associate (KCNA) - 2026
 
 It demonstrates foundational knowledge of Kubernetes and the broader cloud-native ecosystem, covering essential concepts such as container orchestration, Kubernetes architecture, cloud-native application delivery, observability, and cloud-native landscape tools.
@@ -75,22 +99,6 @@ It demonstrates foundational knowledge of Kubernetes and the broader cloud-nativ
 * Cloud-native application delivery
 * Observability and telemetry basics
 * Cloud-native landscape and ecosystem awareness
-
----
-
-## Certified Kubernetes Application Developer (CKAD) - 2026
-
-It validates hands-on expertise in designing, building, and deploying cloud-native applications on Kubernetes.
-
-As a performance-based certification, it demonstrates the ability to work with core application concepts, design and build robust workloads, configure services and networking, and troubleshoot applications running on Kubernetes clusters.
-
-**Key Skills Validated**
-
-* Application design and build
-* Application deployment
-* Application observability and maintenance
-* Application environment, configuration, and security
-* Services and networking
 
 ---
 
