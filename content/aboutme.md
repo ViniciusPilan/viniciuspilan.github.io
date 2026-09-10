@@ -22,7 +22,7 @@ My goal is to continuously grow as an engineer while contributing to the develop
 * GitOps: Argo CD | GitHub Actions | Git
 * Monitoring and Observability: Prometheus | Grafana | Mimir
 * Linux
-* Programming and automation: Python | Shell
+* Programming and automation: Python | Shell scripts
 * Service Mesh: Istio
 
 ## Areas of Interest
