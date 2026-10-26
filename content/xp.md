@@ -51,7 +51,7 @@ My core responsibilities include:
 
 ## Cloud Computing Intern - Opus Software
 
-**2022 – 2022 (6 months)**
+**2022**
 
 Started my professional journey in technology as a Cloud Computing Intern, learning the foundations of modern cloud platforms and DevOps practices.
 
